@@ -6,6 +6,7 @@ A system that uses an ESP8622 to measure temperature and a python script that to
 * graph.py uses pandas and matplotlib to graph the systems results.
 * FAH_temp.ino is the firmware for ESP8622 that collects/averages samples and then hosts a webserver so main.py can retrieve temperatures.
 
+Note: each FAH client must be configured to allow telnet access from IP where main.py is running.
 
 ![arch](arch.JPG)
 
