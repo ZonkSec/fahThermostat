@@ -10,6 +10,9 @@ Note: each FAH client must be configured to allow telnet access from IP where ma
 
 ![arch](arch.JPG)
 
+here is what the flask web control looks like:
+
+![web control](webcontrol.png)
 
 some example charts. black line is target temp. squiggly line is actual temp, its red when FAH is running and blue when it is not.
 ![chart2](chart2.png)
