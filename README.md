@@ -1,4 +1,4 @@
-# fahThermostat
+# fahThermostat - Folding@Home Thermostat
 
 A system that uses an ESP8622 to measure temperature and a python script that toggles folding@home clients via telnet api to regulate temperatures of a room.
 
